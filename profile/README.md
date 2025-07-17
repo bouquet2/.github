@@ -1,7 +1,10 @@
-# bouquet2
-Organization of krea.to infrastructure
+## bouquet2
+Organization for krea.to infrastructure
 
-# Contents
+## Mission
+Make everything as declarative and transparent as possible.
+
+## Main projects
 
 * [bouquet2](https://github.com/bouquet2/bouquet2)
   * Main project. Contains Kubernetes manifests, OpenTofu configuration etc.
@@ -13,3 +16,4 @@ Organization of krea.to infrastructure
   * Source code of [status.krea.to](https://source.krea.to)
 
 Everything else is a self-explanatory dependency.
+
